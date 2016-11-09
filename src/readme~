@@ -1,0 +1,35 @@
+Student Number: OMBMAR001	
+Name: Martin Ombura
+Application: WordApp
+
+
+Items
+driver/WordApp.java (MAIN CLASS)
+model/Score.java
+model/Threader.java
+model/WordDictionary.java
+model/WordPanel.java
+model/WordRecord.java
+view/WordAppView.java
+controller/ThreaderController.java
+controller/WordPanelController.java
+makefile
+
+####!!!!!WARNING FEATURE INCLUDES FLASHING TEXT. NOT SUITABLE FOR VIEWERS WITH PHOTOSENSITIVE-EPILEPSY!!!!####
+								[DO NOT CLICK ANIMATE]
+
+The WordApp application is meant for anyone who would like to improve their typing speed. It features words falling from
+the top of the screen(i.e the application screen) and the user is meant to type the word before it gets to the red zone
+at the bottom. For any correct word the user successfully catches they will receive a 7pts for every word that falls into the
+red-zone and disappears they shall be deducted -4pts.
+
+The start button starts the game
+The pause button pauses the game
+The animate button allows the words to flash in different colors (Blue, Yellow, Green,Pink, Red)
+The combo box allows users to change difficulty from 
+	1. Easy
+	2. Intermediate
+	3. Hard
+	4. Asian
+	5. Super Saiyan
+The end button stops the game
